@@ -6,8 +6,11 @@ AIM:
 
 GAIN :
   >Automatic monitoring of hazardous area
+  
   >Easy to implement
+  
   >Alert message if the values are more than threshold value
+  
   >Efficient
   
   
