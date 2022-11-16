@@ -2,7 +2,7 @@
 Hazardous Area Monitoring for Industrial Plant powered by IoT
 
 AIM:
-  To monitor the temperature and humidity values of hazardous area in industrial power plant with help of virtualized raspberry pi and python script.   
+  To monitor the temperature and humidity values of hazardous area in industrial plant.   
 
 GAIN :
   >Automatic monitoring of hazardous area
